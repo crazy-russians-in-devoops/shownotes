@@ -1,3 +1,7 @@
 # The Big Four Series, Part I: Arun Gupta of AWS #
 
 ## Questions ##
+
+* Welcome and intros
+* What made AWS the leader?
+* Serverless – why is it that so important?
