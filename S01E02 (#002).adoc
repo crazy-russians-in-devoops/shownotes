@@ -5,3 +5,7 @@
 * Welcome and intros
 * What made AWS the leader?
 * Serverless – why is it that so important?
+* Kubernetes on AWS - autoscaling best practices
+* AWS and CNCF - the future of cloud native technologies on AWS
+* What is AWS IoT
+
