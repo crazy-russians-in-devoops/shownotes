@@ -8,7 +8,7 @@
  
 ## Guests ##
 - https://twitter.com/idvoretskyi)[Ihor Dvoretskyi] Developer Advocate @ CNCF
-– https://twitter.com/errordeveloper[Ilya Dmitrichenko] CNCF Amassador, DX at Weaveworks
+- https://twitter.com/errordeveloper[Ilya Dmitrichenko] CNCF Amassador, DX at Weaveworks
   
 ## Links ##
  - https://www.cncf.io/people/ambassadors[CNCF Ambassadors Page]
