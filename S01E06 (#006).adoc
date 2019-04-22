@@ -1,14 +1,14 @@
 # CNCF Ambassadors – what, who, and how to become one (at #KubeCon US 2018) #
 
 ## Hosts ##
-- [Archy Khayretdinov](https://twitter.com/archyufa) CNCF Ambassador
-- [Alena Prokharchyk](https://twitter.com/lemonjet)
-- [Viktor Gamov](https://twitter.com/gamussa)
-- [Baruch Sadogursky](https://twitter.com/jbaruch) CNCF Ambassador
+- https://twitter.com/archyufa[Archy Khayretdinov] CNCF Ambassador
+- https://twitter.com/lemonjet[Alena Prokharchyk]
+- https://twitter.com/gamussa[Viktor Gamov]
+- https://twitter.com/jbaruch[Baruch Sadogursky] CNCF Ambassador
  
 ## Guests ##
-- [Ihor Dvoretskyi](https://twitter.com/idvoretskyi) Developer Advocate @CNCF
-– [Ilya Dmitrichenko](https://twitter.com/errordeveloper] CNCF Amassador, DX at Weaveworks
+- https://twitter.com/idvoretskyi)[Ihor Dvoretskyi] Developer Advocate @ CNCF
+– https://twitter.com/errordeveloper[Ilya Dmitrichenko] CNCF Amassador, DX at Weaveworks
   
 ## Links ##
- - [CNCF Ambassadors Page](https://www.cncf.io/people/ambassadors)
+ - https://www.cncf.io/people/ambassadors[CNCF Ambassadors Page]
