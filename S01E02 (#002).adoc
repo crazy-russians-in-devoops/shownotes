@@ -7,7 +7,7 @@
 - https://twitter.com/jbaruch[Baruch Sadogursky] CNCF Ambassador
  
 ## Guests ##
-- https://twitter.com/idvoretskyi)[Ihor Dvoretskyi] Developer Advocate @ CNCF
+- https://twitter.com/idvoretskyi[Ihor Dvoretskyi] Developer Advocate @ CNCF
 - https://twitter.com/errordeveloper[Ilya Dmitrichenko] CNCF Amassador, DX at Weaveworks
   
 ## Links ##
