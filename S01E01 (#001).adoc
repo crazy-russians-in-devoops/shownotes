@@ -5,10 +5,15 @@ Welcome to the first ever episode of CRID. Who can be a better guest to ensure a
 == Shownotes
 
 * art of monitoring
-* books: thinking fast and slow, fifth discipline (6 books)
-* sydney decke field guide for understanding human error
-* books to mention: how to transform and scale metaskill toyota kata, stephen spears: high velocity  age
-* beyond the phoenix project
+* books: 
+** https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman-ebook/dp/B004R1Q2EG/[Thinking, Fast and Slow] by Daniel Kahneman
+** https://www.amazon.com/Fifth-Discipline-Practice-Learning-Organization-ebook/dp/B000SEIFKK/[The Fifth Discipline: The Art & Practice of The Learning Organization] by  Peter M. Senge
+** https://www.amazon.com/Field-Guide-Understanding-Human-Error-ebook-dp-B00BL0OZ0E/dp/B00BL0OZ0E/[The Field Guide to Understanding Human Error] by Sidney Dekker
+* books to mention: 
+** how to transform and scale metaskill 
+** https://www.amazon.com/Toyota-Kata-Mike-Rother/dp/0070683468[Toyota Kata] by Mike Rother
+** https://www.amazon.com/High-Velocity-Edge-Operational-Excellence-Competition-ebook/dp/B003GIPEC2/[The High-Velocity Edge: How Market Leaders Leverage Operational Excellence to Beat the Competition: Second Edition] by Steven J. Spear
+** https://www.amazon.com/Beyond-Phoenix-Project-Evolution-Transcript-ebook/dp/B079V4YRG1[Beyond The Phoenix Project: The Origins and Evolution Of DevOps] by Gene Kim and John Willis
 * digital anarchist
 * https://www.linkedin.com/in/shannonlietz/
 * https://twitter.com/devsecops
