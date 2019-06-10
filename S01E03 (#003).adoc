@@ -1,0 +1,19 @@
+= What's next? from Google Cloud Next 2019!
+
+== Hosts 
+
+* https://twitter.com/gamussa[Viktor Gamov]
+* https://twitter.com/ligolnik[Lionid Igolnik]
+
+== Guests
+
+* https://twitter.com/antonarhipov[Anton Arhipov]
+* https://twitter.com/fedor[Fedor Korotkov]
+* https://twitter.com/riferrei[Ricardo Ferreira]
+ 
+== Links
+
+* https://cloud.withgoogle.com/next/sf
+** https://cloud.withgoogle.com/next/sf/sessions?session=DA305[Ricardo's session]
+* https://cirrus-ci.org
+

@@ -1,6 +1,7 @@
 = Crazy Russians in DevOops S01E01 (#001): Starting it right with John Willis
 
-Welcome to the first ever episode of CRID. Who can be a better guest to ensure a successful launch if not one of the fathers of DevOps, THE father of DevSecOps, John Willis! 
+Welcome to the first ever episode of CRID. 
+Who can be a better guest to ensure a successful launch if not one of the fathers of DevOps, THE father of DevSecOps, John Willis! 
 
 == Shownotes
 
@@ -16,4 +17,4 @@ Welcome to the first ever episode of CRID. Who can be a better guest to ensure a
 * DevSecOps days
 * devsecopshandbook is coming
 
-Music: Soviet March by Shane Ivers - https://www.silvermansound.com
+*Music: Soviet March by Shane Ivers - https://www.silvermansound.com*
