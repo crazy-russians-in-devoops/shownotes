@@ -12,5 +12,7 @@
  
 == Links
 
-* https://github.com/tektoncd/pipeline
+* Teckton Pipelines
+  ** https://github.com/tektoncd/pipeline[GitHub Project]
+  ** https://www.youtube.com/watch?v=TQJ_pdTxZr0[Next Generation CI/CD with GKE and Tekton Cloud Next Talk]
 * https://blog.jetbrains.com/teamcity/2019/04/configuration-as-code-part-4-extending-the-teamcity-dsl/
