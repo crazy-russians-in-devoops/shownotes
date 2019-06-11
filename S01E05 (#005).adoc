@@ -1,0 +1,17 @@
+= Observe this! from Google Cloud Next 2019
+
+_In Soviet Russia, if you are not observing you are beaing observed © L. Igolnik_
+
+== Hosts 
+
+* https://twitter.com/gamussa[Viktor Gamov]
+* https://twitter.com/ligolnik[Lionid Igolnik]
+
+== Guests
+
+* https://twitter.com/antonarhipov[Anton Arhipov]
+* https://twitter.com/riferrei[Ricardo Ferreira]
+ 
+== Links
+
+_TBD_
