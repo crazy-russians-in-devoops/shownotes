@@ -1,0 +1,16 @@
+= Tektonic Shift! from Google Cloud Next 2019!
+
+== Hosts 
+
+* https://twitter.com/gamussa[Viktor Gamov]
+
+== Guests
+
+* https://twitter.com/antonarhipov[Anton Arhipov]
+* https://twitter.com/fedor[Fedor Korotkov]
+* https://twitter.com/riferrei[Ricardo Ferreira]
+ 
+== Links
+
+* https://github.com/tektoncd/pipeline
+* https://blog.jetbrains.com/teamcity/2019/04/configuration-as-code-part-4-extending-the-teamcity-dsl/
