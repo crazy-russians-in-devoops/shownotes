@@ -15,4 +15,14 @@
 * Teckton Pipelines
   ** https://github.com/tektoncd/pipeline[GitHub Project]
   ** https://www.youtube.com/watch?v=TQJ_pdTxZr0[Next Generation CI/CD with GKE and Tekton Cloud Next Talk]
-* https://blog.jetbrains.com/teamcity/2019/04/configuration-as-code-part-4-extending-the-teamcity-dsl/
+* Configuration as Code with Kotlin DSL in TeamCity
+  ** https://blog.jetbrains.com/teamcity/2019/03/configuration-as-code-part-1-getting-started-with-kotlin-dsl/[Part 1: Getting started]
+  ** https://blog.jetbrains.com/teamcity/2019/03/configuration-as-code-part-2-working-with-kotlin-scripts/[Part 2: Modifying Kotlin scripts]
+  ** https://blog.jetbrains.com/teamcity/2019/04/configuration-as-code-part-3-creating-build-configurations-dynamically/[Part 3: Dynamic configurations]
+  ** https://blog.jetbrains.com/teamcity/2019/04/configuration-as-code-part-4-extending-the-teamcity-dsl/[Part 4: Extending TeamCity Kotlin DSL]
+  ** https://blog.jetbrains.com/teamcity/2019/04/configuration-as-code-part-5-using-dsl-extensions-as-a-library/[Part 5: Creating libraries for DSL re-use]
+  ** https://blog.jetbrains.com/teamcity/2019/05/configuration-as-code-part-6-testing-configuration-scripts/[Part 6: Testing configuration scrtipts]
+* https://cirrus-ci.org/[Cirrus CI]
+
+  
+
