@@ -1,0 +1,16 @@
+= DevOps on Mobile with Vladimir Ivanov
+
+In this episode we spoke about how DevOps is done (or not really done) in the world of modern mobile development with Vladimir Ivanov, Lead Software Engineer at EPAM Systems and a member of https://mobiusconf.com/en/[the Mobius Conference] program commeetee. 
+
+== Hosts 
+
+* https://twitter.com/gamussa[Viktor Gamov]
+* https://twitter.com/jbaruch[Baruch Sadogursky]
+
+== Guests
+
+* https://twitter.com/vvsevolodovich[Vladimir Ivanov]
+ 
+== Links
+
+_TBD_
