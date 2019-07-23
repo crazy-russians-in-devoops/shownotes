@@ -10,11 +10,26 @@ In this episode we spoke about how DevOps is done (or not really done) in the wo
 == Guests
 
 * https://twitter.com/vvsevolodovich[Vladimir Ivanov]
- 
+
 == Links
 
-https://mobiusconf.com/en/cfp[the Mobius Conference Call For Paper]
+* https://www.techrepublic.com/blog/software-engineer/how-to-handle-a-failed-app-update-on-itunes/[A blog post] with suggestions on expediting updates rollout for iOS (spoiler: still not a continuous update)
+* https://gamaphp.gamasutra.com/blogs/MaximilianCsuk/20150720/248957/PostMortem_Part_II_for_Nubs_Adventure_an_exploratory_platformer_for_iOS_and_Android.php[Reflections on gamedev experience for iOS and Android], including catastrofic updates and (lack of) recovery.
+ 
+== Conferences
 
-== Promo
+=== DevOops
 
-Use Mobius19MskCrazyRussians to buy the https://mobiusconf.com/en/[conference ticket] with the discount
+* Website: https://devoops.ru/en/
+* Date: October 29-30 2019
+* Location: St. Petersburg, Russia
+* CFP: https://speakers.devoops.ru/index-en.html
+* Discount code for CRID listeners: DevOops19_CRID
+
+=== Mobius
+
+* Website: mobiusconf.com/en/
+* Date: December 7-8 2019
+* Location: Moscow, Russia
+* CFP: https://speakers.mobiusconf.com/index-en.html
+* Discount code for CRID listeners: Mobius19MskCrazyRussians
