@@ -28,7 +28,7 @@ In this episode we spoke about how DevOps is done (or not really done) in the wo
 
 === Mobius
 
-* Website: mobiusconf.com/en/
+* Website: https://mobiusconf.com/en/
 * Date: December 7-8 2019
 * Location: Moscow, Russia
 * CFP: https://speakers.mobiusconf.com/index-en.html
