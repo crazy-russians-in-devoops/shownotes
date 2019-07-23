@@ -24,7 +24,7 @@ In this episode we spoke about how DevOps is done (or not really done) in the wo
 * Date: October 29-30 2019
 * Location: St. Petersburg, Russia
 * CFP: https://speakers.devoops.ru/index-en.html
-* Discount code for CRID listeners: DevOops19_CRID
+* Discount code for CRID listeners: `DevOops19_CRID`
 
 === Mobius
 
@@ -32,4 +32,4 @@ In this episode we spoke about how DevOps is done (or not really done) in the wo
 * Date: December 7-8 2019
 * Location: Moscow, Russia
 * CFP: https://speakers.mobiusconf.com/index-en.html
-* Discount code for CRID listeners: Mobius19MskCrazyRussians
+* Discount code for CRID listeners: `Mobius19MskCrazyRussians`
