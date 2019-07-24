@@ -15,6 +15,10 @@ In this episode we spoke about how DevOps is done (or not really done) in the wo
 
 * https://www.techrepublic.com/blog/software-engineer/how-to-handle-a-failed-app-update-on-itunes/[A blog post] with suggestions on expediting updates rollout for iOS (spoiler: still not a continuous update)
 * https://gamaphp.gamasutra.com/blogs/MaximilianCsuk/20150720/248957/PostMortem_Part_II_for_Nubs_Adventure_an_exploratory_platformer_for_iOS_and_Android.php[Reflections on gamedev experience for iOS and Android], including catastrofic updates and (lack of) recovery.
+
+* https://medium.com/@dzigorium[Vladimir's technical blog]
+* http://bitrise.io[Bitrise.IO - CI/CD for mobile]
+* https://speakerdeck.com/vlivanov/cd-in-2k19[Deck with modern CI/CD conciderations for mobile development]
  
 == Conferences
 
