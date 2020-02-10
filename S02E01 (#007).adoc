@@ -22,7 +22,8 @@ In this episode we we discussed the topic of conference CFP abstracts from the p
 
 === Resources on how to write a winning submission
 
-* TODO: TIM'S VIDEO
+* https://www.youtube.com/watch?v=N0g3QoCuqH4&feature=youtu.be[TIM'S VIDEO on abstracts]
+* https://dev.to/rmoff/how-to-win-or-at-least-not-suck-at-the-conference-abstract-submission-game-5l8[Robin Moffatt on conference abstracts]
 * https://www.ted.com/read/ted-talks-the-official-ted-guide-to-public-speaking[TED Talks: The Official TED Guide to Public Speaking has a lot of advice on ideating and formulating the talk in chapter 2]
 * https://bridgetkromhout.com/blog/give-actionable-takeaways/[Give Actionable Takeaways is a great blog post by @bridgetkromhout (one of the organizers of the DevOpsDays franchise) on how to submit a winning proposal]
 * https://medium.com/@nnja/the-ultimate-guide-to-memorable-tech-talks-part-3-writing-a-conference-proposal-or-cfp-7481aba78aa5[The Ultimate Guide To Memorable Tech Talks — Part 3: Writing a Conference Proposal (or CFP)]
