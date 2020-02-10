@@ -24,6 +24,7 @@ In this episode we we discussed the topic of conference CFP abstracts from the p
 
 * TODO: TIM'S VIDEO
 * https://www.ted.com/read/ted-talks-the-official-ted-guide-to-public-speaking[TED Talks: The Official TED Guide to Public Speaking has a lot of advice on ideating and formulating the talk in chapter 2]
+* https://bridgetkromhout.com/blog/give-actionable-takeaways/[Give Actionable Takeaways is a great blog post by @bridgetkromhout (one of the organizers of the DevOpsDays franchise) on how to submit a winning proposal]
 * https://medium.com/@nnja/the-ultimate-guide-to-memorable-tech-talks-part-3-writing-a-conference-proposal-or-cfp-7481aba78aa5[The Ultimate Guide To Memorable Tech Talks — Part 3: Writing a Conference Proposal (or CFP)]
 * https://speaking.io/plan/writing-a-cfp/[Tips on writing a CFP from speaking.io from Zach Holman]
 * https://forum.tulu.la/c/speakers/speakers-tips[Speaker Tips section in the Tulula Speaker Lounge (lots of useful links)]
