@@ -1,0 +1,37 @@
+= WTH, WFH
+
+In this episode we discussed working from home at the stormy times of COVID-19
+
+== Hosts 
+
+* https://twitter.com/gamussa[Viktor Gamov]
+* https://twitter.com/jbaruch[Baruch Sadogursky]
+* https://twitter.com/ligolnik[Leonid Igolnik]
+* https://twitter.com/antonarhipov[Anton Arhipov]
+
+== Tips on working from home from the hosts:
+
+=== When working, do the work
+
+* Allocate a dedicated space. Work only from there. Only work from there.
+* Do a morning routine: put your pants on.
+* Make sure your family knows you are working.
+* Do not get disrtucted to do home chores during working hours (whatever you decide they are).
+* Beware of snacks and snacking
+
+=== Don't forget to stop working
+
+* Take a walk.
+* Exercise.
+* Mute working notifications (except of critical channels) after clocking out.
+* Don't be tempted to keep working or checking in on emails and slack.
+
+=== General tips on making it easier
+
+* Don't be embraced asking for help and interrupting people.
+* Do more video meetings – body language is important.
+* Over-communicate what you've done, what you're doing, what are the problems, and what are your plans, every day.
+* Office hours in zoom – open meeting to drop in.
+* Use reminders on Slack (for yourself to remind to answer and for others to ping in good hours).
+* Rubber duck debugging.
+* As a manager - check in on folks, try to create virtual social events.
